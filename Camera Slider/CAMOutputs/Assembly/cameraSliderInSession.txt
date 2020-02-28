@@ -1,0 +1,10 @@
+Partlist exported from /Users/ahmedibrahim/Documents/EAGLE/projects/Camera Slider/Camera Slider/cameraSliderInSession.sch at 12/10/19 3:39 PM
+
+Qty Value                      Device                           Package                  Parts Description                                                                                                     POPULARITY PROD_ID   SF_SKU    VALUE
+1   100uF                      100UF-POLAR-RADIAL-2.5MM-25V-20% CPOL-RADIAL-2.5MM-6.5MM  C1    100µF polarized capacitors                                                                                                 CAP-08439           100uF
+1   A4988_STEP                 A4988_STEP                       A4988_STEP               U$1                                                                                                                                                       
+1   ARDUINO_UNO_R3_SHIELD_ICSP ARDUINO_UNO_R3_SHIELD_ICSP       UNO_R3_SHIELD_ICSP       B1    Arduino R3 Shield Footprint with ICSP Header                                                                                                        
+1   ST1                        CONN_025MM                       SCREWTERMINAL-5MM-2      J2    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                      PRT-08432      
+1   ST2                        CONN_025MM                       SCREWTERMINAL-5MM-2      J1    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                      PRT-08432      
+1   SWVal                      SW_DIP-3                         EDG-03                   SW1   DIP SWITCH                                                                                                      17                                  
+1   WIRELESS-BLUETOOTH-HC-05   WIRELESS-BLUETOOTH-HC-05         WIRELESS-BLUETOOTH-HC-05 U$2   Bluetooth Transceiver Module based on HC-05 board                                                                                                   
